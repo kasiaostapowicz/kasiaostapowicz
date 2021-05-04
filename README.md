@@ -1,7 +1,7 @@
 ## Katarzyna Ostapowicz
 
 [![Twitter Badge](https://img.shields.io/twitter/follow/ostapowiczkasia?style=social)](https://twitter.com/ostapowiczkasia)
-[![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/https://www.linkedin.com/in/katarzyna-ostapowicz-2a41593)
+[![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/katarzyna-ostapowicz-2a41593/)
 [![Google Scholar Badge](https://img.shields.io/badge/Google-Scholar-lightgrey)](https://scholar.google.com/citations?hl=en&user=TZonST4AAAAJ)
 [![UCB Badge](https://img.shields.io/badge/UCB-Staff-blue)](https://luclab.berkeley.edu/staff/katarzyna-ostapowicz/)
 
