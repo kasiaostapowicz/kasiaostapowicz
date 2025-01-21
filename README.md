@@ -1,6 +1,6 @@
 ## Katarzyna Ostapowicz
 
-<h2><strong>Advancing Remote Sensing, AI, and Land System Science</strong></h2> 
+<p><strong>Advancing Remote Sensing, AI, and Land System Science</strong></p> 
 
 [![NINA Badge](https://img.shields.io/badge/NINA-Staff-blue)](https://www.nina.no/english/Contact/Employees/Employee-info?AnsattID=16669)
 [![Clarivate_Web_of_Science_Badge](https://img.shields.io/badge/Clarivate-WoS-lightgrey)](https://www.webofscience.com/wos/author/record/AAE-4380-2019)
