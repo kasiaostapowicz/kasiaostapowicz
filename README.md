@@ -2,7 +2,7 @@
 
 <p>Advancing Remote Sensing, AI, and Land System Science</p> 
 <p>リモートセンシング、人工知能、そしてランドシステムサイエンスの新たな地平を切り拓く</p>
-<p>원격탐사, 인공지능, 그리고 토지시스템과학의 새로운 지평을 열다</p>
+<p>원격탐사, 인공지능 및 토지시스템과학의  새로운 지평 개발</p>
 <p>Nowe horyzonty w teledetekcji, sztucznej inteligencji i naukach o Ziemi i Środowisku</p>
 
 [![NINA Badge](https://img.shields.io/badge/NINA-Staff-blue)](https://www.nina.no/english/Contact/Employees/Employee-info?AnsattID=16669)
