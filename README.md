@@ -40,17 +40,3 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-
-
-
-
-
-## Katarzyna Ostapowicz
-
-<p>Advancing Remote Sensing, AI, and Land System Science</p> 
-<p>リモートセンシング、人工知能、そしてランドシステムサイエンスの新たな地平を切り拓く</p>
-<p>원격탐사, 인공지능 및 토지시스템과학의  새로운 지평 개발</p>
-<p>Nowe horyzonty w teledetekcji, sztucznej inteligencji i naukach o Ziemi i Środowisku</p>
-
-rey)](https://scholar.google.com/citations?user=7dxBUIcAAAAJ&hl=en&oi=ao)
