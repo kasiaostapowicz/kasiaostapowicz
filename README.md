@@ -1,9 +1,9 @@
 # Katarzyna Ostapowicz
 
-> *Advancing Remote Sensing, AI, and Land System Science* </br>
-> *リモートセンシング、人工知能、そしてランドシステムサイエンスの新たな地平を切り拓く* </br>
-> *원격탐사, 인공지능 및 토지시스템과학의 새로운 지평 개발* </br>
-> *Nowe horyzonty w teledetekcji, sztucznej inteligencji i naukach o Ziemi i Środowisku* </br>
+> *Advancing Remote Sensing, AI, and Land System Science*<br><br>
+> *リモートセンシング、人工知能、そしてランドシステムサイエンスの新たな地平を切り拓く*<br><br>
+> *원격탐사, 인공지능 및 토지시스템과학의 새로운 지평 개발*<br><br>
+> *Nowe horyzonty w teledetekcji, sztucznej inteligencji i naukach o Ziemi i Środowisku*
 
 [![NINA Badge](https://img.shields.io/badge/NINA-Staff-blue)](https://www.nina.no/english/Contact/Employees/Employee-info?AnsattID=16669)
 [![Clarivate Badge](https://img.shields.io/badge/Clarivate-WoS-lightgrey)](https://www.webofscience.com/wos/author/record/AAE-4380-2019)
