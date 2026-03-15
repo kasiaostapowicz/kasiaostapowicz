@@ -14,17 +14,17 @@
 
 ### 🛠️ Stack
 
-**Languages**
+**Languages** <br>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 
-**ML / AI**
+**ML / AI**  <br>
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
 
-**GIS & Remote Sensing**
+**GIS & Remote Sensing**  <br>
 ![Google Earth Engine](https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=flat-square&logo=googleearth&logoColor=white)
 ![Copernicus CDSE](https://img.shields.io/badge/Copernicus%20CDSE-003399?style=flat-square&logo=europeanspaceagency&logoColor=white)
 ![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=qgis&logoColor=white)
@@ -32,16 +32,16 @@
 ![SNAP](https://img.shields.io/badge/SNAP--ESA-003247?style=flat-square)
 ![GDAL](https://img.shields.io/badge/GDAL-5CAD36?style=flat-square)
 
-**Cloud Platforms**
+**Cloud Platforms**  <br>
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
 ![openEO](https://img.shields.io/badge/openEO-1B9E41?style=flat-square)
 
-**Tools**
+**Tools**  <br>
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-**OS**
+**OS**  <br>
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
