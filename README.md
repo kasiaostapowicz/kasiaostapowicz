@@ -1,8 +1,8 @@
 # Katarzyna Ostapowicz
 
-*Advancing Remote Sensing, AI, and Land System Science*<br><br>
-*リモートセンシング、人工知能、そしてランドシステムサイエンスの新たな地平を切り拓く*<br><br>
-*원격탐사, 인공지능 및 토지시스템과학의 새로운 지평 개발*<br><br>
+*Advancing Remote Sensing, AI, and Land System Science*<br>
+*リモートセンシング、人工知能、そしてランドシステムサイエンスの新たな地平を切り拓く*<br>
+*원격탐사, 인공지능 및 토지시스템과학의 새로운 지평 개발*<br>
 *Nowe horyzonty w teledetekcji, sztucznej inteligencji i naukach o Ziemi i Środowisku*
 
 <p></p>
