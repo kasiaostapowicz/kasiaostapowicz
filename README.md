@@ -1,9 +1,11 @@
 # Katarzyna Ostapowicz
 
-> *Advancing Remote Sensing, AI, and Land System Science*<br><br>
-> *リモートセンシング、人工知能、そしてランドシステムサイエンスの新たな地平を切り拓く*<br><br>
-> *원격탐사, 인공지능 및 토지시스템과학의 새로운 지평 개발*<br><br>
-> *Nowe horyzonty w teledetekcji, sztucznej inteligencji i naukach o Ziemi i Środowisku*
+*Advancing Remote Sensing, AI, and Land System Science*<br><br>
+*リモートセンシング、人工知能、そしてランドシステムサイエンスの新たな地平を切り拓く*<br><br>
+*원격탐사, 인공지능 및 토지시스템과학의 새로운 지평 개발*<br><br>
+*Nowe horyzonty w teledetekcji, sztucznej inteligencji i naukach o Ziemi i Środowisku*
+
+Katarzyna Ostapowicz is a research scientist at the Norwegian Institute for Nature Research (NINA) specialising in remote sensing, environmental data science and land system science.
 
 [![ORCID Badge](https://img.shields.io/badge/ORC-ID-lightgrey)](https://orcid.org/0000-0002-4830-8202)
 [![Clarivate Badge](https://img.shields.io/badge/Clarivate-WoS-lightgrey)](https://www.webofscience.com/wos/author/record/AAE-4380-2019)
