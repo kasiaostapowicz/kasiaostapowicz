@@ -9,7 +9,7 @@
 [![Clarivate Badge](https://img.shields.io/badge/Clarivate-WoS-lightgrey)](https://www.webofscience.com/wos/author/record/AAE-4380-2019)
 [![Scopus Badge](https://img.shields.io/badge/ELSEVIER-Scopus-lightgrey)](https://www.scopus.com/authid/detail.uri?authorId=8943458300)
 [![Google Scholar Badge](https://img.shields.io/badge/Google-Scholar-lightgrey)](https://scholar.google.com/citations?user=7dxBUIcAAAAJ&hl=en&oi=ao)
-[![NINA Badge](https://img.shields.io/badge/NINA-Staff-blue)](https://www.nina.no/english/Contact/Employees/Employee-info?AnsattID=16669)
+
 ---
 
 ### 🛠️ Stack
